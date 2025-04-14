@@ -262,7 +262,7 @@
             "require": "^7.1"
         },
         "branch-alias": {
-            "dev-main": "2.0-dev"
+            "dev-nextstore-2.0": "2.0-dev"
         }
     },
     "autoload": {
